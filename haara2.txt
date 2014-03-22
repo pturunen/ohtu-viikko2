@@ -1,0 +1,2 @@
+lisatty rivi kloonin paikallisessa haara2 trackatty haara
+push voidaan suorittaa suoraan origin haara2 seen
