@@ -1,2 +1,6 @@
 laskari2 tehtava viisi 
+
 lisatty rivi masterissa tokan jalkeen
+
+lisatty rivi toka branchissa
+
