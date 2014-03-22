@@ -1,0 +1,1 @@
+lisatty local haara1seen file joka voidaan nyt pushata suoraan remotes/origin/haara1 seen
